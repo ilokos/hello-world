@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2020-06-30T23:33:48.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 Edg/83.0.478.56" etag="j8DSDQTd9ir-TiTctGdj" version="13.3.5" type="github">
+  <diagram id="eSBdYchZjA2-0wVK8rvn" name="Page-1">
+    <mxGraphModel dx="2062" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NeL3Pxat4WjqXi4JhhiO-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="370" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="NeL3Pxat4WjqXi4JhhiO-2" value="Width 13.5&#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="412" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NeL3Pxat4WjqXi4JhhiO-5" value="Length 21&#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="220" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NeL3Pxat4WjqXi4JhhiO-6" value="Hot tub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="90" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NeL3Pxat4WjqXi4JhhiO-7" value="44 boards across&lt;br&gt;27 boards for the width of the hot tub&lt;br&gt;3.5 x1.5 boards&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="210" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
